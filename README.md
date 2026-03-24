@@ -1,5 +1,5 @@
 # Viktor Nordmark
-DevOps Engineer (LIA-sökande: nov 2026 – apr 2027)
+DevOps Engineer (LIA-sökande: nov 2026 - apr 2027)
 
 viktornordmark@gmail.com · 0736 66 86 63
 github.com/viktornordmark-hub · git.chas-lab.dev/vino
@@ -9,7 +9,7 @@ github.com/viktornordmark-hub · git.chas-lab.dev/vino
 ## Profil
 
 DevOps-student vid Chas Academy med fokus på Linux, automation och säker infrastruktur.
-Jag söker LIA november 2026 – april 2027.
+Jag söker LIA november 2026 - april 2027.
 
 Bakgrund från logistik och service - van vid högt tempo, precision och att leverera
 när det faktiskt gäller.
