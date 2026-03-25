@@ -50,11 +50,11 @@ Min del: databasschema för shop/orders samt testdatagenerering.
 
 ## Tekniska färdigheter
 
-OS:          Linux (Fedora, Ubuntu, Ubuntu Server), macOS
-Scripting:   Bash, Python
-VCS:         Git - GitHub, GitLab
-Containers:  Docker
-Databaser:   SQL - SQLite, MariaDB
+- OS:          Linux (Fedora, Ubuntu, Ubuntu Server), macOS
+- Scripting:   Bash, Python
+- VCS:         Git - GitHub, GitLab
+- Containers:  Docker
+- Databaser:   SQL - SQLite, MariaDB
 
 Pågående kurser (VT/HT 2026): CI/CD, Kubernetes, GitOps
 
